@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @BillyMagarali
-- 👀 I’m interested in computers, programmation, video games and history
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in computers and programmation
+- 🌱 I’m currently learning C
 - 💞️ I’m looking for a Web developer apprenticeship position
 - 📫 How to reach me: You can send me an email at ---> billymagarali@gmail.com
 
